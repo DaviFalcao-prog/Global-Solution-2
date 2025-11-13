@@ -4,6 +4,7 @@
 **Global Solution 2025 – O Futuro do Trabalho**  
 Curso: Engenharia de Software – FIAP  
 Turma: **ESPY**
+Link para o Wokwi: https://wokwi.com/projects/447532200399107073
 
 ## Integrantes
 
